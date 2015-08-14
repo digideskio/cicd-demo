@@ -6,4 +6,4 @@ date:   2015-05-24
 ---
 Check out [this page](https://github.com/integrations) for an overview.
 
-My favorite integration is [Google](https://www.google.com/integrations)
+My favorite integration is [Google](https://www.google.com) and [GitHub](https://www.githubbbbbbb.comm)
